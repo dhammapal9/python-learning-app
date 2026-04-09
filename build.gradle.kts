@@ -1,0 +1,1 @@
+plugins {\n    kotlin("multiplatform") version "1.5.31"\n    id("com.android.application") version "7.0.3" apply false\n    id("dagger.hilt.android.plugin") version "2.38.1" apply false\n}\n
